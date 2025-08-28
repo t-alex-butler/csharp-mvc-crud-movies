@@ -94,3 +94,4 @@ c:\Users\sinis\code\MvcMovie\obj\Debug\net9.0\refint\MvcMovie.dll
 c:\Users\sinis\code\MvcMovie\obj\Debug\net9.0\MvcMovie.pdb
 C:\Users\sinis\code\MvcMovie\obj\Debug\net9.0\MvcMovie.genruntimeconfig.cache
 C:\Users\sinis\code\MvcMovie\obj\Debug\net9.0\ref\MvcMovie.dll
+c:\Users\sinis\code\MvcMovie\obj\Debug\net9.0\MvcMovie.sourcelink.json
